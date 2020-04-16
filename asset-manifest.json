@@ -1,0 +1,18 @@
+{
+  "files": {
+    "app.js": "/spell-slinger/static/js/app.0b3c832a.chunk.js",
+    "app.js.map": "/spell-slinger/static/js/app.0b3c832a.chunk.js.map",
+    "runtime~app.js": "/spell-slinger/static/js/runtime~app.7b0b240f.js",
+    "runtime~app.js.map": "/spell-slinger/static/js/runtime~app.7b0b240f.js.map",
+    "static/js/2.4e47dff5.chunk.js": "/spell-slinger/static/js/2.4e47dff5.chunk.js",
+    "static/js/2.4e47dff5.chunk.js.map": "/spell-slinger/static/js/2.4e47dff5.chunk.js.map",
+    "index.html": "/spell-slinger/index.html",
+    "manifest.json": "/spell-slinger/manifest.json",
+    "serve.json": "/spell-slinger/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.7b0b240f.js",
+    "static/js/2.4e47dff5.chunk.js",
+    "static/js/app.0b3c832a.chunk.js"
+  ]
+}

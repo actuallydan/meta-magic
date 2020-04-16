@@ -1,0 +1,17 @@
+{
+  "name": "spellSlinger",
+  "displayName": "spellSlinger",
+  "expo": {
+    "name": "spellSlinger",
+    "slug": "spellSlinger",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
